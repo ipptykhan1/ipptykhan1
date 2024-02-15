@@ -24,5 +24,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipptykhan1)](https://github.com/ipptykhan1/github-readme-stats)
 
 
-![Ippty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipptykhan1&show_icons=true&theme=radical)
+![Ippty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipptykhan1&show_icons=true&theme=dracula)
 ```
