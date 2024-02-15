@@ -1,3 +1,5 @@
+(https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1668950%2Fscreenshots%2F3863114%2Frodoshi.gif&tbnid=fdW2c5LhfOQkoM&vet=12ahUKEwjU2p-Azq2EAxXJZmwGHbg9D6UQMygBegQIARBQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F3863114-The-girl-and-her-laptop&docid=V-EKfieNLXJWYM&w=800&h=600&q=animation%20coder%20hijab%20woman%20gif&ved=2ahUKEwjU2p-Azq2EAxXJZmwGHbg9D6UQMygBegQIARBQ)
+
 <h1 align="center">Hi 👋, I'm ippty khan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
