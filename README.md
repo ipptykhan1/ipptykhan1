@@ -23,11 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ipptykhan1&show_icons=true&locale=en&layout=compact" alt="ipptykhan1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipptykhan1&show_icons=true&locale=en" alt="ipptykhan1" /></p>
 
-
-### Themes
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ippty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipptykhan1&show_icons=true&theme=radical)
 ```
