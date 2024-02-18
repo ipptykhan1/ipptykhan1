@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js, Redux**
 
-- 👨‍💻 All of my projects are available at [https://64f57b55b281280f327d41ab--aquamarine-arithmetic-54dcae.netlify.app/](https://64f57b55b281280f327d41ab--aquamarine-arithmetic-54dcae.netlify.app/)
+
 
 - 💬 Ask me about **React**
 
