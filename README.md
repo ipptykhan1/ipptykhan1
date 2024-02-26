@@ -4,12 +4,9 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Next js, Redux**
-
-
-
 - 💬 Ask me about **React**
-
 - 📫 How to reach me **ipptykhancse@gmail.com**
+- 👨‍💻 All of my projects are available at [(https://65dcdbfaab48aa1614aaf805--harmonious-pasca-a9472d.netlify.app/)]
 
   
 
