@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Next js, Redux**
 - 💬 Ask me about **React**
 - 📫 How to reach me **ipptykhancse@gmail.com**
-- 👨‍💻 All of my projects are available at [(https://65e5721059ab282c4cbe6999--harmonious-pasca-a9472d.netlify.app/)]
+- 👨‍💻 All of my projects are available at [(https://portfolio-ik-ashen.vercel.app/)]
 
   
 
